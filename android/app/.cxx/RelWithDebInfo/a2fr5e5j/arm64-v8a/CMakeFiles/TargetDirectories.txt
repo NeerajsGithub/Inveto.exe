@@ -1,0 +1,2 @@
+C:/Users/Ultron/StudioProjects/flutterupdated/android/app/.cxx/RelWithDebInfo/a2fr5e5j/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Ultron/StudioProjects/flutterupdated/android/app/.cxx/RelWithDebInfo/a2fr5e5j/arm64-v8a/CMakeFiles/rebuild_cache.dir
